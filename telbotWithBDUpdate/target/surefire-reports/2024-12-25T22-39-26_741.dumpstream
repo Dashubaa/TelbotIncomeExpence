@@ -1,0 +1,5 @@
+# Created at 2024-12-25T22:39:26.897
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

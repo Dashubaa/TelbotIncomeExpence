@@ -1,0 +1,15 @@
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\BotConfig.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\Category.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\dao\CategoryRepository.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\dao\TransactionRepository.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\dao\UserRepository.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\ExpenseBot.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\service\ExpenseCategoryService.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\service\ExpenseService.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\service\IncomeCategoryService.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\service\StateService.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\service\TransactionService.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\TelbotApplication.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\test.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\Transaction.java
+D:\Personal\Univer\kursovoy\telbot2\telbotWithBD\src\main\java\com\example\telbot\User.java

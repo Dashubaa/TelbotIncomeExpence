@@ -1,0 +1,14 @@
+com\example\telbot\Category.class
+com\example\telbot\dao\TransactionRepository.class
+com\example\telbot\service\ExpenseCategoryService.class
+com\example\telbot\service\IncomeCategoryService.class
+com\example\telbot\Transaction.class
+com\example\telbot\dao\UserRepository.class
+com\example\telbot\service\StateService.class
+com\example\telbot\TelbotApplication.class
+com\example\telbot\BotConfig.class
+com\example\telbot\service\TransactionService.class
+com\example\telbot\User.class
+com\example\telbot\dao\CategoryRepository.class
+com\example\telbot\ExpenseBot.class
+com\example\telbot\service\ExpenseService.class
